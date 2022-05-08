@@ -1,0 +1,4 @@
+sample counts : 500 - 1000
+since : 15 september 2020
+search: #AbrahamAccords
+
